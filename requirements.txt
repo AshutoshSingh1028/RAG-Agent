@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-pinecone
+pypdf
+python-dotenv
+langchain-groq
+pinecone
+pydantic
+ipython
+pandas
+langsmith
+streamlit
