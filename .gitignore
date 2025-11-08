@@ -1,2 +1,4 @@
 .env
 chat.ipynb
+__pycache__/
+*.pyc
